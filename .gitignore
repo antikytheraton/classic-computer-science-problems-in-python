@@ -2,3 +2,4 @@
 .keys/
 .mypy_cache/
 .vscode/
+__pycache__/
